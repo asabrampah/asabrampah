@@ -1,5 +1,17 @@
-# 💫 About Me:
+# 🎯 Portfolio Repository
+
+Welcome to my portfolio repository! This repository showcases my projects, skills, and professional journey as a Frontend Developer, UI/UX Designer, and Data Visualization Specialist.
+
+## 💫 About Me:
 🔭 Currently working on an alumni administration platform using AngularJS, Taiga UI, and Figma.<br>🤝 Looking to collaborate on front-end dev, UI/UX design, and data visualization projects.<br>👐 Looking for help with scaling front-end architecture and smooth API integration.<br>🌱 Currently learning advanced Angular, Power BI, and accessibility best practices.<br>💬 Ask me about UI/UX workflows, responsive web apps, and turning feedback into better products.<br>⚡ Fun fact<br>I can spend hours perfecting tiny design details — because micro-interactions matter!
+
+## 📁 Portfolio Structure
+
+- **[🌐 Web Portfolio](./index.html)** - Interactive web-based portfolio
+- **[📂 Portfolio Documentation](./portfolio/)** - Detailed project documentation
+- **[💻 Web Projects](./portfolio/web-projects/)** - Frontend and full-stack development projects
+- **[📊 Data Projects](./portfolio/data-projects/)** - Data visualization and analytics work
+- **[🎨 Design Projects](./portfolio/design-projects/)** - UI/UX design and prototypes
 
 
 ## 🌐 Socials:
